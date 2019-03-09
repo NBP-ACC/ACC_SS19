@@ -28,7 +28,7 @@ some_list = [1, 2, 3, 4, 5, 6]
 for i in some_list:
     print(i * 2)
 
-# 5. Conditions
+# 5. Conditions: Find numbers between a range which are divisible by 7 and multiple of 5 
 nl=[]
 for x in range(1500, 2701):
     if (x%7==0) and (x%5==0):
