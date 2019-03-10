@@ -83,7 +83,8 @@ for keys, value in mydict.items():
 # 10. Convert lists to dictionary
 name = ['peter', 'paul', 'marie', 'max']
 age = [20, 30, 40, 18]
-print([{'name': f, 'age': c} for f, c in zip(name, age)])
+mydict = dict(zip(name,age))
+print(mydict)
 
 
 ### FUNCTIONS ###
