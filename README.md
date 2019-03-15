@@ -1,7 +1,7 @@
 # Practice sessions
 
 Only those of you that worked on the Basic-Python-Test are allowed to take part in the programming exercises, which is necessary to pass this course.
-Since this course requires basic programming skills in python to solve the weekly exercises, the aim of the exercise is for us to assess your skills, and also for you to test if you need to first do a basic python course yourself. 
+Since this course requires basic programming skills in python to solve the weekly exercises, the aim of this first exercise is for us to assess your skills, and also for you to test if you need to do a basic python course yourself. 
 
 ### Programming exercises
 
