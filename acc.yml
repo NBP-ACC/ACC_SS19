@@ -4,10 +4,13 @@
    - defaults
  dependencies:
    - python=3.6
+   - pip
    - numpy
    - matplotlib
    - scipy
+   - pandas
+   - seaborn
+   - mne
    - jupyter
    - ipython
    - ipywidgets
-   - pandas
